@@ -1,3 +1,0 @@
-This is file 1
-Inside folder 9
-Created using Python
